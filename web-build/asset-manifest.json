@@ -1,0 +1,39 @@
+{
+  "files": {
+    "app.js": "/web-build/static/js/app.2231ce4e.chunk.js",
+    "app.js.map": "/web-build/static/js/app.2231ce4e.chunk.js.map",
+    "runtime~app.js": "/web-build/static/js/runtime~app.0960814e.js",
+    "runtime~app.js.map": "/web-build/static/js/runtime~app.0960814e.js.map",
+    "static/js/2.3d996769.chunk.js": "/web-build/static/js/2.3d996769.chunk.js",
+    "static/js/2.3d996769.chunk.js.map": "/web-build/static/js/2.3d996769.chunk.js.map",
+    "fonts/AntDesign.ttf": "/web-build/./fonts/AntDesign.ttf",
+    "fonts/CaesarDressing_400Regular.ttf": "/web-build/./fonts/CaesarDressing_400Regular.ttf",
+    "fonts/Entypo.ttf": "/web-build/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/web-build/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/web-build/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/web-build/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/web-build/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/web-build/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/web-build/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/web-build/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/web-build/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/web-build/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/web-build/./fonts/SimpleLineIcons.ttf",
+    "fonts/VarelaRound_400Regular.ttf": "/web-build/./fonts/VarelaRound_400Regular.ttf",
+    "favicon-16.png": "/web-build/favicon-16.png",
+    "favicon-32.png": "/web-build/favicon-32.png",
+    "favicon.ico": "/web-build/favicon.ico",
+    "index.html": "/web-build/index.html",
+    "manifest.json": "/web-build/manifest.json",
+    "serve.json": "/web-build/serve.json",
+    "static/js/2.3d996769.chunk.js.LICENSE.txt": "/web-build/static/js/2.3d996769.chunk.js.LICENSE.txt",
+    "static/media/homescreen_back.png": "/web-build/static/media/homescreen_back.6993e18f.png",
+    "static/media/loading.gif": "/web-build/static/media/loading.0787e4dc.gif",
+    "static/media/typing.jpg": "/web-build/static/media/typing.90f62493.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.0960814e.js",
+    "static/js/2.3d996769.chunk.js",
+    "static/js/app.2231ce4e.chunk.js"
+  ]
+}
